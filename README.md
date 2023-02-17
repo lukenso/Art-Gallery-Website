@@ -1,8 +1,8 @@
 # Art Gallery Website 
 
-A nice layout-based challenge for beginners. This will test anyone who is new to multi-column and responsive layouts.
+This two-page art gallery project will be perfect if you're ready to branch out beyond single landing pages. There are some particularly interesting layout challenges!
 
-![Logo](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/wbsdema37uawkvkp9lab.jpg)
+![Logo](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ofieenxp0c7dlmjy0voa.jpg)
 
 
 ## Created with
@@ -11,14 +11,15 @@ A nice layout-based challenge for beginners. This will test anyone who is new to
 - Flexbox
 - Responsive Design
 
-## Designed for ony two devices 
+## Designed for ony tree devices 
 - Mobile (375px)
+- Tablet (768px)
 - Desktop(1440px)
 
 ## Resources
 
-- Challange URL: [Click here](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
-- Live Site URL: [Click here](https://lukenso.github.io/Four-card-feature-section/)
+- Challange URL: [Click here](https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA)
+- Live Site URL: [Click here](https://lukenso.github.io/Art-Gallery-Website/)
 ## Author
 
 - LinkedIn - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
