@@ -11,7 +11,7 @@ This two-page art gallery project will be perfect if you're ready to branch out 
 - Flexbox
 - Responsive Design
 
-## Designed for ony tree devices 
+## Designed for only tree devices 
 - Mobile (375px)
 - Tablet (768px)
 - Desktop(1440px)
